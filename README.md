@@ -1,24 +1,10 @@
-# students
+### Descripción: STUDENTS AND SUBJECTS
 
-## Project setup
-```
-npm install
-```
+### Construcción 🛠️
+* **Clonar proyecto:** https://github.com/acudarwin/vue3-proyecto-final
+* **Para Backend Ejecutar:** json-server --watch db.json
+* **Para Front Ejecutar:** npm run serve
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Autores ✒️
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**Autor:** Acuña Vincenty Darwin
